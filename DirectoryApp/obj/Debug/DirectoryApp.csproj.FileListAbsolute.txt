@@ -1,0 +1,28 @@
+c:\users\mojekonto\documents\visual studio 2015\Projects\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+c:\users\mojekonto\documents\visual studio 2015\Projects\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe
+c:\users\mojekonto\documents\visual studio 2015\Projects\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.pdb
+c:\users\mojekonto\documents\visual studio 2015\Projects\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.csprojResolveAssemblyReference.cache
+c:\users\mojekonto\documents\visual studio 2015\Projects\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.exe
+c:\users\mojekonto\documents\visual studio 2015\Projects\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.pdb
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DircectoryApp\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DircectoryApp\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.exe
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DircectoryApp\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.pdb
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DircectoryApp\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DircectoryApp\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.pdb
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DircectoryApp\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.csprojResolveAssemblyReference.cache
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.exe
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.pdb
+C:\Users\mojeKonto\Downloads\DirectoryApp-20171210T180602Z-001\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+C:\Users\mojeKonto\Downloads\DirectoryApp-20171210T180602Z-001\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.exe
+C:\Users\mojeKonto\Downloads\DirectoryApp-20171210T180602Z-001\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.pdb
+C:\Users\mojeKonto\Downloads\DirectoryApp-20171210T180602Z-001\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe
+C:\Users\mojeKonto\Downloads\DirectoryApp-20171210T180602Z-001\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.pdb
+C:\Users\mojeKonto\Downloads\DirectoryApp-20171210T180602Z-001\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.csprojResolveAssemblyReference.cache
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DirectoryAppNew\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DirectoryAppNew\DirectoryApp\obj\Debug\DirectoryApp.exe
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DirectoryAppNew\DirectoryApp\obj\Debug\DirectoryApp.pdb
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DirectoryAppNew\DirectoryApp\bin\Debug\DirectoryApp.exe
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DirectoryAppNew\DirectoryApp\bin\Debug\DirectoryApp.pdb
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DirectoryAppNew\DirectoryApp\obj\Debug\DirectoryApp.csprojResolveAssemblyReference.cache
+C:\Users\Marlej\Documents\Visual Studio 2015\Projects\DirectoryAppNew\DirectoryApp\obj\Debug\DirectoryApp.csproj.CoreCompileInputs.cache
